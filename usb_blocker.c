@@ -8,7 +8,7 @@ int main()
 {
 	char user_option[3];
 	
-	printf("\nDo you want to disable usb ports on your computer? [yes/no]: ");
+	printf("\nDo you want to block usb ports on your computer? [yes/no]: ");
 	gets(user_option);
 	
 
