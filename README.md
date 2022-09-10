@@ -1,2 +1,2 @@
 # USB-Ports-Blocker-and-Unblocker
-These two tools will help to block and unblock USB ports on a windows computer.
+These two tools can be used to block and unblock USB ports on any windows computer.
