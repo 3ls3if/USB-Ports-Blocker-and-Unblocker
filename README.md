@@ -14,10 +14,21 @@
 .
 .
 
-[+] USE THE TOOLS:
+[+] HOW TO BLOCK USB:
 
-1. Double click on the exe file(s)
-2. Type "yes" or "no" in order to block and unblock the usb ports.
+1. Double click on the "usb_blocker.exe" file.
+2. Type "yes" to block the usb ports.
+3. Press enter to exit from the program.
+
+.
+.
+.
+.
+
+[+] HOW TO UNBLOCK USB:
+
+1. Double click on the "usb_unblocker.exe" file.
+2. Type "yes" to unblock the usb ports.
 3. Press enter to exit from the program.
 
 
