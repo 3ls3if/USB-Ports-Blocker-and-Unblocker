@@ -8,7 +8,8 @@
 
 [+] REQUIREMENTS:
  
-1. In order to use these tools you must have Administrator privilege in the windows computer.
+1. In order to use these tools you must have Administrator privilege in the windows computer (See the given pdf to activate the admin account).
+
 .
 .
 .
