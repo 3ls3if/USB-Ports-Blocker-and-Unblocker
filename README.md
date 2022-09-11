@@ -15,7 +15,7 @@
 .
 .
 
-[+] HOW TO BLOCK USB:
+[+] HOW TO BLOCK USB PORTS:
 
 1. Double click on the "usb_blocker.exe" file.
 2. Type "yes" on the cmd to block the usb ports.
@@ -26,7 +26,7 @@
 .
 .
 
-[+] HOW TO UNBLOCK USB:
+[+] HOW TO UNBLOCK USB PORTS:
 
 1. Double click on the "usb_unblocker.exe" file.
 2. Type "yes" on the cmd to unblock the usb ports.
